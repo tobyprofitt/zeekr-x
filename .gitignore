@@ -1,0 +1,25 @@
+# Account settings and saved sessions
+.env
+.env.*
+!/.env.example
+session-*.json
+zeekr_secrets*.json
+
+# Local proxy data and certificates
+.mitmproxy/
+*.har
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+.DS_Store
