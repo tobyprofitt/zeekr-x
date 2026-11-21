@@ -2,6 +2,8 @@
 
 The dashboard shows a live garage view, battery and charging status, and trip history with route replay. The API worker uses your Zeekr owner account because trip history can be unavailable to shared accounts.
 
+![The Zeekr X rotating in the garage view as color ASCII art](docs/zeekr-x-garage.gif)
+
 ## Install
 
 From the project directory on macOS or Linux, use Python 3.10+ with `curses`. Use Python 3.12+ if you also want the optional session capture helper.
