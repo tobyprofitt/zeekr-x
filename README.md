@@ -2,7 +2,11 @@
 
 The dashboard shows a live garage view, battery and charging status, and trip history with route replay. The API worker uses your Zeekr owner account because trip history can be unavailable to shared accounts.
 
+# The fun stuff
+
 ![The Zeekr X rotating in the garage view as color ASCII art](docs/zeekr-x-garage.gif)
+
+# The boring stuff
 
 ## Install
 
